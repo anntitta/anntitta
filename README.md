@@ -25,3 +25,13 @@ Google ADK • Vertex AI • Gemini API
 Git • GitHub • Docker
 
 Power BI • Tableau
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anntitta&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anntitta&layout=compact" />
+</p>
