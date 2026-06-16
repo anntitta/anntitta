@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Ann Titta Banner" width="100%">
+  <img src="Banner.png" alt="Ann Titta Banner" width="100%">
 </p>
 
 
