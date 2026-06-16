@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Ann Titta Banner" width="100%">
+</p>
+
+
 ## Hi there 👋
 
 I'm Ann Titta
@@ -8,11 +13,23 @@ I'm Ann Titta
 
 🤖 Building AI Agents using Google ADK
 
-📚 Author of Pegasus
+📚 Author of The Life I Reclaimed:From the Ashes of a Beautiful Lie
 
 🧠 Interested in Machine Learning, NLP, LLMs and AI Systems
 
 🌱 Currently learning Agentic AI and Production ML
+
+## Current Focus
+
+- Agentic AI
+
+- Google ADK
+
+- Gemini API
+
+- Machine Learning
+
+- NLP
 
 ## Tech Stack
 
